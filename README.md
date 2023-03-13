@@ -2,7 +2,7 @@
 
 
 TODO: 
-  [] add base docker stable diffusion
-  [] add models
-  [] add VAE
-  [] etc
+  - [ ] add base docker stable diffusion
+  - [ ] add models
+  - [ ] add VAE
+  - [ ] etc
