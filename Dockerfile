@@ -1,4 +1,4 @@
-FROM runpod/stable-diffusion:web-automatic-1.5.16
+FROM runpod/stable-diffusion:web-automatic-3.0.0
 
 SHELL ["/bin/bash", "-c"]
 
